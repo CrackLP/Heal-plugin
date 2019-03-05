@@ -1,0 +1,7 @@
+name: Heal
+author: CrackLPYT
+version: 1.0
+main: de.crack.lp.main.Main
+
+commands:
+  heal:
